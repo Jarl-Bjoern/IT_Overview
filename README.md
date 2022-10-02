@@ -3,7 +3,7 @@
 This page is a collection of several information, which facilitate the work in everyday life.
 
 ## CIDR-Notation
-| CIDR	| netmask		  | available addresses |
+| CIDR	| netmask		  | Available addresses |
 | ----- | --------------- | ------------------- |
 | /30	| 255.255.255.252 |	2					|
 | /29	| 255.255.255.248 |	6					|
